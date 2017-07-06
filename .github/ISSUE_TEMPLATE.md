@@ -25,6 +25,6 @@
 
 **Code**
 ```xml
-// A *self-contained* demonstration of the problem follows...
+<!-- A *self-contained* demonstration of the problem follows... -->
 
 ```
