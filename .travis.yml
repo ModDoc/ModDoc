@@ -1,0 +1,16 @@
+sudo: false
+language: bash
+
+branches:
+  only:
+    - master
+
+matrix:
+  include:
+    - os: linux
+      node_js: "7"
+      env: JOB_NAME=test
+  fast_finish: true
+
+# script: make test
+script: bash ./.travis/$JOB_NAME.sh
