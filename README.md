@@ -12,7 +12,7 @@
 			<img src="https://img.shields.io/travis/ModDoc/ModDoc/master.svg" alt="Travis"/>
 		</a>
 		<a href="https://github.com/ModDoc/ModDoc/blob/master/LICENSE" alt="Issues">
-			<img src="https://img.shields.io/github/license/ModDoc/ModDoc.svg"/>
+			<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
 		</a>
 	</p>
 	<hr>
