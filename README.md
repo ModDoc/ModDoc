@@ -33,7 +33,7 @@ git clone https://github.com/ModDoc/ModDoc.git
 ```
 
 <h2 align="center">Core Team</h2>
-<div align="center">
+<center>
 	<table>
 		<tbody>
 			<tr>
@@ -54,4 +54,4 @@ git clone https://github.com/ModDoc/ModDoc.git
 			</tr>
 		</tbody>
 	</table>
-</div>
+</center>
